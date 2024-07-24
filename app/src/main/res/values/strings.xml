@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NutriApp</string>
+    <string name="profile">Perfil</string>
+    <string name="meal_plan">Plan de Comidas</string>
+    <string name="recipes">Recetas</string>
+    <string name="tracking">Seguimiento de Nutrientes</string>
+    <string-array name="goals_array">
+        <item>Pérdida de peso</item>
+        <item>Mantenimiento</item>
+        <item>Ganancia muscular</item>
+    </string-array>
+    <string name="app_namee">NutriApp</string>
+    <string-array name="image_array">
+        <item>Ensalada de Quinoa</item>
+        <item>Batido de Fresas</item>
+        <!-- Agrega más items si es necesario -->
+    </string-array>
+</resources>
